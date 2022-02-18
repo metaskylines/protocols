@@ -1,4 +1,30 @@
+/*
 
+MetaSkylines, the future of decentralized asset management and invesment platform by bridging cefi and defi.
+
+SkyTax
+1) 7% Liquidity
+2) 4% Reward Pool
+3) 2% Development
+4) 2% Marketing
+    
+    
+    _/      _/              _/                
+   _/_/  _/_/    _/_/    _/_/_/_/    _/_/_/   
+  _/  _/  _/  _/_/_/_/    _/      _/    _/    
+ _/      _/  _/          _/      _/    _/     
+_/      _/    _/_/_/      _/_/    _/_/_/      
+
+      _/_/_/  _/                  _/  _/                                
+   _/        _/  _/    _/    _/  _/      _/_/_/      _/_/      _/_/_/   
+    _/_/    _/_/      _/    _/  _/  _/  _/    _/  _/_/_/_/  _/_/        
+       _/  _/  _/    _/    _/  _/  _/  _/    _/  _/            _/_/     
+_/_/_/    _/    _/    _/_/_/  _/  _/  _/    _/    _/_/_/  _/_/_/        
+                         _/                                             
+                    _/_/                                                
+                                                                        
+
+*/
 
 //SPDX-License-Identifier: MIT
 pragma solidity ^0.8.11;
