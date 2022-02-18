@@ -458,8 +458,6 @@ contract MetaSkylines is Context, IERC20, Ownable {
         
         uint total_supply = 1000 * 10 ** 9 * 10 ** decimals();
         // set gvars
-        //0x9Ac64Cc6e4415144C455BD8E4837Fea55603e5c3    tesnet Router
-        //0x10ED43C718714eb63d5aA57B78B54704E256024E    live Router
         IUniswapV2Router02 _uniswapV2Router = IUniswapV2Router02(0x10ED43C718714eb63d5aA57B78B54704E256024E);
         uniswapV2Router = _uniswapV2Router;
         maxSellTxAmount = total_supply; // 100% supply
